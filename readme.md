@@ -50,9 +50,3 @@
     #!/usr/bin/env bash
     git push --mirror git@github.com:<ваш_github_username>/<ваш_репозиторий>.git
     ```
-test
-1
-1
-2
-3
-4
